@@ -44,8 +44,8 @@ body{
 }
 
 #container{
-
-    width: 588px;
+    width:100%;
+    max-width: 588px;
     margin: 56px auto;
 }
 
@@ -162,16 +162,4 @@ ul li a:hover{
 footer{
     padding:24px;
     text-align: center;
-}
-
-@media(max-width:588px){
-    #container{
-        width:350px;
-    }
-}
-
-@media(max-width:350px){
-    #container{
-        width:260px;
-    }
 }
