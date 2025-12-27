@@ -9,6 +9,6 @@ function toggleMode(){
         img.setAttribute("src", "Fotos/avatar-light.png")
     }
     else{
-        img.setAttribute("src", "Fotos/avatar.png")
+        img.setAttribute("src", "Fotos/Avatar.png")
     }
 }
