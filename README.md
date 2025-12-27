@@ -20,7 +20,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".Fotos/Cover.png" width="100%">
+  <img alt="projeto DevLinks" src="./Fotos/Cover.png" width="100%">
 </p>
 
 
@@ -55,4 +55,5 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 =======
 
 >>>>>>> 26e91e51e292ab31d66867b94eeff6e4c7b4fb30
+
 
